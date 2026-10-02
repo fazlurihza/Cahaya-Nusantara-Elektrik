@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Listrik Fuse Cut Out Polymer",
+    desc: "Aksesoris Listrik, Fuse Cut Out Merk Right Sesuai Dengan Kebutuhan Proyek Anda.",
+    fullDesc: "Spesifikasi Fuse Cut Out Polymer.\n\nKami Menyediakan Aksesoris Listrik, Fuse Cut Out Merk Right Sesuai Dengan Kebutuhan Proyek Anda\n\nHarga Fuse Cut Out Polymer. : CALL",
+    image: "/products/fuse-cut-out-polymer/image1.png",
+    images: [
+      "/products/fuse-cut-out-polymer/image1.png",
+      "/products/fuse-cut-out-polymer/image2.png",
+      "/products/fuse-cut-out-polymer/image3.png"
+    ],
+    price: "Rp. CALL",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["SINARINDO", "Aksesoris Listrik", "Fuse Cut Out", "Polymer"],
+  },
+  {
     name: "Tangga Teleskopik Aluminium Eagan Single Telescopic Eg-1002",
     desc: "Tangga Aluminium multifungsi yang dibuat dengan bahan aluminium berkualitas.",
     fullDesc: "Spesifikasi Tangga Lipat Aluminium Eagan Single Telescopic Eg-1002 / Eg-1004\n\nTangga Aluminium multifungsi yang dibuat dengan bahan aluminium berkualitas.\n\nMerek : EAGEN\nTipe : Single Telescopic\nModel : EG-1002\nBahan : Aluminium\n\nStep : 12\nTinggi Model : Extension 380cm , Lipat : 86 cm\nKetebalan : 1.3-1.4 mm\nBerat : 11.4 kg\nBeban Muat : 150 kg\nJarak anak Tangga : 30 cm",
