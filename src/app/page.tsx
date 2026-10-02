@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Listrik Elastimold Cooper 35 / 50 / 95",
+    desc: "Aksesoris listrik / clamp grounding untuk mengelola koneksi kabel bawah tanah, switchgear, dan recloser.",
+    fullDesc: "Suplier Elastimold\n\nElastimold adalah salah satu aksesoris listrik / clamp grounding untuk mengelola koneksi kabel bawah tanah di industri dan sekarang termasuk switchgear bawah tanah dan reclosers overhead.\n\nFitur dari Elastimold:\n- Elastimold Underground Aksesoris Kabel: Tersedia dari 5kV ke 138kV, menghubungkan, tanah, sambatan, menghentikan dan melindungi kabel bawah tanah.\n- Elastimold Sekring: Dengan mengganggu kemampuan hingga 50.000 amp, secara substansial mengurangi passthrough energi untuk meminimalkan risiko bencana kegagalan.\n- Elastimold Switchgear: Compact, dan desain modular dengan jejak kaki kecil mengizinkan perakitan lapangan di dalam kubah ketat.",
+    image: "/products/elastimold-cooper/image1.png",
+    images: [
+      "/products/elastimold-cooper/image1.png",
+      "/products/elastimold-cooper/image2.png",
+      "/products/elastimold-cooper/image3.png"
+    ],
+    price: "Rp. CALL",
+    origin: "China",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["COOPER", "Aksesoris Listrik", "Elastimold"],
+  },
+  {
     name: "Aksesoris Kabel Lainnya Top Ties Plp / Laj 70 - 150",
     desc: "Top Ties adalah aksesoris kabel udara yang sangat penting dalam pengerjaan instalasi listrik untuk mengikat kabel dengan kuat, rapi, dan aman.",
     fullDesc: "Top Ties adalah aksesoris listrik atau aksesoris kabel udara yang sangat penting dalam pengerjaan instalasi.\n\nTop Ties atau pun cable ties ini merupakan pengikat yang sangat kuat untuk menghasilkan pekerjaan terlihat rapi dan aman. Secara umum Top Ties memiliki ukuran 12mm dengan bahan yang elastis dan mudah di gulung, sehingga dapat dengan mudah digunakan sesuai kebutuhan.\n\nTop Ties digunakan untuk memenuhi kebutuhan listrik dan di pakai juga sebagai kabel yang di pakai untuk berbagai kebutuhan peralatan komunikasi.\n\nUntuk memilih Top Ties yang berkualitas maka perlu di perhatikan dengan teliti, jangan sampai bahan fiber di bagian luarnya terdapat lubang atau bahkan patahan yang dapat membuat terjadinya korslet atau hal berbahaya lainnya.",
