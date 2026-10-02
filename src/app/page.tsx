@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Kabel Lainnya Isolator Tumpu",
+    desc: "Isolator Keramik Tumpu Pin Post 20kv. Bebas dari cacat pemuaian, anti kontaminasi, dan anti puncture.",
+    fullDesc: "Terdapat 2 macam Isolator Tumpu, line post dan pin post.\n\nIsolator Keramik Pin Post merupakan salah satu dari berbagai jenis isolator keramik, diantaranya adalah Isolator Keramik Belimbing, Isolator Keramik Shackle, Isolator Keramik Yoyo (Spool Insulator), Isolator Keramik Pin model RM, Isolator Keramik telur dan lain sebagainya.\n\nBerdasarkan bentuknya, Isolator Listrik berbahan dasar Keramik Pin Post memiliki beberapa keunggulan diantaranya adalah bebas dari cacat yang biasa disebabkan pemuaian, karena semen dan tangkai besi dipasang pada bagian luar keramik. Isolator Keramik Pin Post memiliki sifat anti kontaminasi yang baik, serta bebas dari kerusakan akibat puncture.",
+    image: "/products/isolator-tumpu/image1.jpg",
+    images: [
+      "/products/isolator-tumpu/image1.jpg",
+      "/products/isolator-tumpu/image2.jpg",
+      "/products/isolator-tumpu/image3.jpg"
+    ],
+    price: "Rp. CALL",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: true,
+    tags: ["NGKWING", "Isolator", "Keramik"],
+  },
+  {
     name: "Aksesoris Kabel Lainnya CCO",
     desc: "Sambungan konduktor aluminium tanpa beban tarik. Tersedia 14 varian ukuran (CCO 1T1 s/d 11T11).",
     fullDesc: "Jenis (CCO) adalah sambungan konduktor yang terbuat dari bahan aluminium. Gunanya untuk menghubungkan jaringan konduktor aluminium dengan konduktor aluminium tanpa beban tarik.\n\nUntuk mencegah oksidasi aluminium tersebut diberi gemuk.\n\nTersedia dalam berbagai ukuran groove:\n- CCO 1T1 s/d CCO 3T3 (10-35mm2)\n- CCO 1T5 s/d CCO 5T8 (50-150mm2)\n- CCO 5T10 s/d CCO 11T11 (150-300mm2)",
@@ -83,7 +99,7 @@ const products = [
     price: "Rp. CALL",
     origin: "Indonesia",
     minOrder: "1 UNIT",
-    highlight: true,
+    highlight: false,
     tags: ["Konektor", "Aluminium"],
   }
 ];
