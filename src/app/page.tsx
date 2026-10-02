@@ -266,7 +266,7 @@ function Hero() {
             Berdiri sejak 2014, Toko Cahaya Nusantara Elektrik menyediakan berbagai
             produk terbaik seperti{" "}
             <span className="text-amber-300 font-semibold">
-              Terminasi Kabel, 3M, Trafo, Copper Braid, Fuse,
+              Terminasi Kabel, 3M, Raychem, Trafo, Copper Braid, Scun, Fuse,
             </span>{" "}
             dan{" "}
             <span className="text-amber-300 font-semibold">MCCB</span> dengan
