@@ -727,7 +727,7 @@ function ContactSection() {
                   Jam Operasional
                 </p>
                 <p className="text-amber-900 font-bold text-sm md:text-base">
-                  Senin – Sabtu
+                  Senin – Jumat
                 </p>
                 <p className="text-amber-700 text-sm mt-1">08.00 – 17.00 WIB</p>
               </div>
