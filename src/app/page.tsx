@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Kabel Lainnya Top Ties Plp / Laj 70 - 150",
+    desc: "Top Ties adalah aksesoris kabel udara yang sangat penting dalam pengerjaan instalasi listrik untuk mengikat kabel dengan kuat, rapi, dan aman.",
+    fullDesc: "Top Ties adalah aksesoris listrik atau aksesoris kabel udara yang sangat penting dalam pengerjaan instalasi.\n\nTop Ties atau pun cable ties ini merupakan pengikat yang sangat kuat untuk menghasilkan pekerjaan terlihat rapi dan aman. Secara umum Top Ties memiliki ukuran 12mm dengan bahan yang elastis dan mudah di gulung, sehingga dapat dengan mudah digunakan sesuai kebutuhan.\n\nTop Ties digunakan untuk memenuhi kebutuhan listrik dan di pakai juga sebagai kabel yang di pakai untuk berbagai kebutuhan peralatan komunikasi.\n\nUntuk memilih Top Ties yang berkualitas maka perlu di perhatikan dengan teliti, jangan sampai bahan fiber di bagian luarnya terdapat lubang atau bahkan patahan yang dapat membuat terjadinya korslet atau hal berbahaya lainnya.",
+    image: "/products/top-ties/image1.png",
+    images: [
+      "/products/top-ties/image1.png",
+      "/products/top-ties/image2.png",
+      "/products/top-ties/image3.png"
+    ],
+    price: "Rp. 123.456",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["PLPLAJ", "Aksesoris Kabel", "Top Ties"],
+  },
+  {
     name: "Aksesoris Kabel Lainnya Skun Kabel Css/Dtl 70-75",
     desc: "Schoen kabel (sepatu kabel/cable lug) untuk penyambungan kabel ke terminal atau panel. Tersedia tipe AL, CU, dan AL-CU bimetal.",
     fullDesc: "Dalam terminasi kabel, kita sering menjumpai aksesoris kabel seperti schoen kabel. Schoen kabel sering juga disebut sepatu kabel / Cable lug.\n\nSchoen kabel adalah salah satu accessories kabel yang berfungsi untuk penyambungan kabel ke terminal atau panel dengan dibautkan pada bussbar atau panel.\n\nUntuk kebutuhan penyambungan kabel jaringan listrik (Terminasi), Schoen kabel terdiri dari beberapa jenis, yaitu:\n- Kabel schoen AL (aluminium).\n- Kabel schoen CU (tembaga).\n- Kabel schoen AL-CU (bimetal).\n\nAdapun keunggulan kabel schoen berbahan aluminium adalah sebagai berikut:\n- Aluminium 99,5%.\n- Mudah digunakan.\n- Mendukung hingga 20 kV.",
