@@ -74,11 +74,11 @@ const products = [
     name: "Aksesoris Kabel Lainnya Sipenjol",
     desc: "Sistem Jaringan Online (SIPENJOL). Pelindung isolator berbahan plastik merk Maspion untuk jaringan listrik PLN.",
     fullDesc: "SIPENJOL (Sistem Jaringan Online)\n\nSpesifikasi:\n- Bahan Plastik merk Maspion\n- Ukuran Standard\n- Kegunaan: Digunakan untuk melindungi isolator pada jaringan listrik PLN.\n- Layanan: Siap kirim seluruh Indonesia.",
-    image: "/products/sipenjol/image1.jpg",
+    image: "/products/sipenjol/image1.png",
     images: [
-      "/products/sipenjol/image1.jpg",
-      "/products/sipenjol/image2.jpg",
-      "/products/sipenjol/image3.jpg"
+      "/products/sipenjol/image1.png",
+      "/products/sipenjol/image2.png",
+      "/products/sipenjol/image3.png"
     ],
     price: "Rp. CALL",
     origin: "Indonesia",
