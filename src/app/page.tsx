@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Kabel Lainnya Skun Kabel Css/Dtl 70-75",
+    desc: "Schoen kabel (sepatu kabel/cable lug) untuk penyambungan kabel ke terminal atau panel. Tersedia tipe AL, CU, dan AL-CU bimetal.",
+    fullDesc: "Dalam terminasi kabel, kita sering menjumpai aksesoris kabel seperti schoen kabel. Schoen kabel sering juga disebut sepatu kabel / Cable lug.\n\nSchoen kabel adalah salah satu accessories kabel yang berfungsi untuk penyambungan kabel ke terminal atau panel dengan dibautkan pada bussbar atau panel.\n\nUntuk kebutuhan penyambungan kabel jaringan listrik (Terminasi), Schoen kabel terdiri dari beberapa jenis, yaitu:\n- Kabel schoen AL (aluminium).\n- Kabel schoen CU (tembaga).\n- Kabel schoen AL-CU (bimetal).\n\nAdapun keunggulan kabel schoen berbahan aluminium adalah sebagai berikut:\n- Aluminium 99,5%.\n- Mudah digunakan.\n- Mendukung hingga 20 kV.",
+    image: "/products/skun-kabel/image1.png",
+    images: [
+      "/products/skun-kabel/image1.png",
+      "/products/skun-kabel/image2.png",
+      "/products/skun-kabel/image3.png"
+    ],
+    price: "Rp. CALL",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["CSSDTL", "Aksesoris Kabel", "Skun Kabel"],
+  },
+  {
     name: "Aksesoris Kabel Lainnya Sipenjol",
     desc: "Sistem Jaringan Online (SIPENJOL). Pelindung isolator berbahan plastik merk Maspion untuk jaringan listrik PLN.",
     fullDesc: "SIPENJOL (Sistem Jaringan Online)\n\nSpesifikasi:\n- Bahan Plastik merk Maspion\n- Ukuran Standard\n- Kegunaan: Digunakan untuk melindungi isolator pada jaringan listrik PLN.\n- Layanan: Siap kirim seluruh Indonesia.",
