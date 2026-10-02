@@ -77,8 +77,8 @@ const products = [
     image: "/products/isolator-tumpu/image1.jpg",
     images: [
       "/products/isolator-tumpu/image1.jpg",
-      "/products/isolator-tumpu/image2.jpg",
-      "/products/isolator-tumpu/image3.jpg"
+      "/products/isolator-tumpu/image2.png",
+      "/products/isolator-tumpu/image3.png"
     ],
     price: "Rp. CALL",
     origin: "Indonesia",
