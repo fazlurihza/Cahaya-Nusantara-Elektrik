@@ -71,6 +71,20 @@ const stats = [
 
 const products = [
   {
+    name: "Aksesoris Kabel Lainnya Sipenjol",
+    desc: "Sistem Jaringan Online (SIPENJOL). Pelindung isolator berbahan plastik merk Maspion untuk jaringan listrik PLN.",
+    fullDesc: "SIPENJOL (Sistem Jaringan Online)\n\nSpesifikasi:\n- Bahan Plastik merk Maspion\n- Ukuran Standard\n- Kegunaan: Digunakan untuk melindungi isolator pada jaringan listrik PLN.\n- Layanan: Siap kirim seluruh Indonesia.",
+    image: "/products/sipenjol/image1.jpg",
+    images: [
+      "/products/sipenjol/image1.jpg"
+    ],
+    price: "Rp. CALL",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["MASPION", "Plastik", "Pelindung"],
+  },
+  {
     name: "Aksesoris Kabel Lainnya Isolator Tumpu",
     desc: "Isolator Keramik Tumpu Pin Post 20kv. Bebas dari cacat pemuaian, anti kontaminasi, dan anti puncture.",
     fullDesc: "Terdapat 2 macam Isolator Tumpu, line post dan pin post.\n\nIsolator Keramik Pin Post merupakan salah satu dari berbagai jenis isolator keramik, diantaranya adalah Isolator Keramik Belimbing, Isolator Keramik Shackle, Isolator Keramik Yoyo (Spool Insulator), Isolator Keramik Pin model RM, Isolator Keramik telur dan lain sebagainya.\n\nBerdasarkan bentuknya, Isolator Listrik berbahan dasar Keramik Pin Post memiliki beberapa keunggulan diantaranya adalah bebas dari cacat yang biasa disebabkan pemuaian, karena semen dan tangkai besi dipasang pada bagian luar keramik. Isolator Keramik Pin Post memiliki sifat anti kontaminasi yang baik, serta bebas dari kerusakan akibat puncture.",
