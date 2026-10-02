@@ -71,6 +71,22 @@ const stats = [
 
 const products = [
   {
+    name: "Tangga Teleskopik Aluminium Eagan Single Telescopic Eg-1002",
+    desc: "Tangga Aluminium multifungsi yang dibuat dengan bahan aluminium berkualitas.",
+    fullDesc: "Spesifikasi Tangga Lipat Aluminium Eagan Single Telescopic Eg-1002 / Eg-1004\n\nTangga Aluminium multifungsi yang dibuat dengan bahan aluminium berkualitas.\n\nMerek : EAGEN\nTipe : Single Telescopic\nModel : EG-1002\nBahan : Aluminium\n\nStep : 12\nTinggi Model : Extension 380cm , Lipat : 86 cm\nKetebalan : 1.3-1.4 mm\nBerat : 11.4 kg\nBeban Muat : 150 kg\nJarak anak Tangga : 30 cm",
+    image: "/products/tangga-eagan-eg-1002/image1.png",
+    images: [
+      "/products/tangga-eagan-eg-1002/image1.png",
+      "/products/tangga-eagan-eg-1002/image2.png",
+      "/products/tangga-eagan-eg-1002/image3.png"
+    ],
+    price: "Rp. CALL",
+    origin: "Indonesia",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["EAGEN", "Tangga Teleskopik", "Tangga Aluminium", "Eg-1002"],
+  },
+  {
     name: "Terminasi Kabel 3M",
     desc: "Aksesoris kabel listrik untuk melengkapi dan menyambungkan sisi kabel yang terputus.",
     fullDesc: "TERMINASI KABEL 3M adalah aksesoris kabel atau Kabel Listrik yang merupakan jenis material yang sangat di perlukan untuk melengkapi bagian sisi kabel yang sifatnya harus di sesuaikan dengan sisi kabel yang diperlukan. Fungsi Terminasi Kabel adalah menyambungkan kabel yang terputus.\n\nJenis Terminasi sebagai berikut;\n1. Terminasi Single Core; Pemasangannya indoor dan outdoor\n2. Terminasi Three Core; Pemasangannya indoor dan outdoor\n\nTersedia dalam ukuran yang dibutuhkan sesuai pesanan.",
