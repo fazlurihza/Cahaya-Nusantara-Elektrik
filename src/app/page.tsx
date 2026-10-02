@@ -194,7 +194,7 @@ const products = [
     price: "Rp. CALL",
     origin: "Indonesia",
     minOrder: "1 UNIT",
-    highlight: true,
+    highlight: false,
     tags: ["NGKWING", "Isolator", "Keramik"],
   },
   {
