@@ -71,6 +71,21 @@ const stats = [
 
 const products = [
   {
+    name: "Terminasi Kabel 3M",
+    desc: "Aksesoris kabel listrik untuk melengkapi dan menyambungkan sisi kabel yang terputus.",
+    fullDesc: "TERMINASI KABEL 3M adalah aksesoris kabel atau Kabel Listrik yang merupakan jenis material yang sangat di perlukan untuk melengkapi bagian sisi kabel yang sifatnya harus di sesuaikan dengan sisi kabel yang diperlukan. Fungsi Terminasi Kabel adalah menyambungkan kabel yang terputus.\n\nJenis Terminasi sebagai berikut;\n1. Terminasi Single Core; Pemasangannya indoor dan outdoor\n2. Terminasi Three Core; Pemasangannya indoor dan outdoor\n\nTersedia dalam ukuran yang dibutuhkan sesuai pesanan.",
+    image: "/products/terminasi-3m/image1.png",
+    images: [
+      "/products/terminasi-3m/image1.png",
+      "/products/terminasi-3m/image2.png"
+    ],
+    price: "Rp. CALL",
+    origin: "Germany",
+    minOrder: "1 UNIT",
+    highlight: false,
+    tags: ["3M", "Terminasi Kabel", "Aksesoris Kabel"],
+  },
+  {
     name: "Aksesoris Listrik Elastimold Cooper 35 / 50 / 95",
     desc: "Aksesoris listrik / clamp grounding untuk mengelola koneksi kabel bawah tanah, switchgear, dan recloser.",
     fullDesc: "Suplier Elastimold\n\nElastimold adalah salah satu aksesoris listrik / clamp grounding untuk mengelola koneksi kabel bawah tanah di industri dan sekarang termasuk switchgear bawah tanah dan reclosers overhead.\n\nFitur dari Elastimold:\n- Elastimold Underground Aksesoris Kabel: Tersedia dari 5kV ke 138kV, menghubungkan, tanah, sambatan, menghentikan dan melindungi kabel bawah tanah.\n- Elastimold Sekring: Dengan mengganggu kemampuan hingga 50.000 amp, secara substansial mengurangi passthrough energi untuk meminimalkan risiko bencana kegagalan.\n- Elastimold Switchgear: Compact, dan desain modular dengan jejak kaki kecil mengizinkan perakitan lapangan di dalam kubah ketat.",
